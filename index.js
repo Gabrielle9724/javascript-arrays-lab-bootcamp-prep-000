@@ -1,5 +1,5 @@
 var kittens = ["Milo", "Otis", "Garfield"] //define your array here
-var kittenstring = "Ursula"
+var kittenstring = "Ralph"
 
 function destructivelyAppendKitten (kittens){
    return [...kittens, kittenstring]
